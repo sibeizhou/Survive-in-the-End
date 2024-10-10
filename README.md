@@ -5,11 +5,10 @@ Our game, Survive in the End, is an arcade style pseudo 3D game. The game is bas
 Link to the video : https://youtu.be/Kj0EhzXitaM
 
 ### Development team
-Group16
+* Sibei Zhou
 * Risa Kawagoe
 * Rongsheng Qian
 * Anika Sheikh
-* Sibei Zhou
 
 ### Development Tools
 * intelliJ IDE with JDK
