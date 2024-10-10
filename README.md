@@ -12,6 +12,7 @@ Link to the video : https://youtu.be/Kj0EhzXitaM
 
 ### Development Tools
 * intelliJ IDE with JDK
+* GitHub
 * GitLab
 * Maven
 * Junit
